@@ -1,6 +1,8 @@
 #![cfg(test)]
 
 //! Oracle Fallback and Resolution Timeout Tests
+use alloc::string::String;
+use alloc::vec;
 
 // ===== BASIC ORACLE TESTS =====
 
